@@ -1,1 +1,1 @@
-# Fourier-Convolution
+Exercise number 2 in the image processing course at the Hebrew University
